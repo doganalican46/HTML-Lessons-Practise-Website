@@ -1,0 +1,119 @@
+index.html
+about.html
+ourteam.html
+contact.html
+
+
+
+index.html
+-----------
+add logo top of the page
+NAVBAR (with ul)
+Homepage
+About
+Our Team
+Contact Us
+
+
+1 random picture
+
+h1 title of the page
+
+p
+
+h2 
+
+small picture
+h3 this is small picture
+
+h2
+p
+
+
+create footer
+open div
+p all rights recived like this...
+
+
+about.html
+-----------
+add logo top of the page
+NAVBAR (with ul)
+Homepage
+About
+Our Team
+Contact Us
+
+
+
+h1 about
+p
+
+embed any youtube video to the website
+add video from local storage
+
+
+p type anything
+
+create table 5columns 4 rows
+
+
+ourteam.html
+-----------
+add logo top of the page img logo
+NAVBAR (with ul)
+Homepage
+About
+Our Team
+Contact Us
+
+h1 Our team
+
+img worker
+h2 worker name
+
+
+contact.html
+-----------
+add logo top of the page
+NAVBAR (with ul)
+Homepage
+About
+Our Team
+Contact Us
+
+h1 contact us
+
+open form
+label name surname
+input text
+
+label city
+select city
+
+input phone number
+input pattern attribute
+0 545 444 44 44
+
+button submit
+
+h2 address 
+embed map to the website
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
